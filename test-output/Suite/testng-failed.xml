@@ -5,8 +5,8 @@
     <classes>
       <class name="com.wonolo.Login">
         <methods>
-          <include name="beforeClass"/>
-          <include name="loginWonoloPage"/>
+          <include name="testVerificationCode"/>
+          <include name="connectToEmail"/>
           <include name="afterClass"/>
         </methods>
       </class> <!-- com.wonolo.Login -->
